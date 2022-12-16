@@ -15,7 +15,7 @@
 
 Work done in release x64
 
-![](./Sats/image.png) 
+![](/Stats/image.png) 
 
 Work done in release x64 with 6 threads, because my cpu has 6 logical cores:
 
