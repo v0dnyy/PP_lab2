@@ -9,7 +9,7 @@
 
 ----
 
-###Task: Modify the program from l/w №1 for parallel work using OpenMP technology.
+###Task: Modify the program from l/w №1 for parallel work using OpenMP technology.###
 
 ----
 
