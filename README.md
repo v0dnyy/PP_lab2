@@ -13,7 +13,7 @@
 
 ----
 
-Work done in release x64:
+Work done in release x64
 
 ![](./Sats/image.png) 
 
