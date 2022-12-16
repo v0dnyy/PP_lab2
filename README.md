@@ -13,13 +13,13 @@
 
 ----
 
-Work done in release x64
+Work done in release x64:
 
 ![](/Stats/image.png) 
 
 Work done in release x64 with 6 threads, because my cpu has 6 logical cores:
 
-![](/Sats/omp 6 threads.jpg)
+![](/Stats/number of threads.jpg)
 
 The difference in the number of threads:
 
