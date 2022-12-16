@@ -19,10 +19,10 @@ Work done in release x64:
 
 Work done in release x64 with 6 threads, because my cpu has 6 logical cores
 
-![](Stats/omp_6_threads.jpg)
+![](/Stats/omp_6_threads.jpg)
 
 The difference in the number of threads:
 
-![](/Sats/number of threads.jpg)
+![](/Stats/number_of_threads.jpg)
 
 ----
