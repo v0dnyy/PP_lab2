@@ -8,6 +8,8 @@
 * PP_lab2             - contains cpp code
 
 ---
+Task: Modify the program from l/w №1 for parallel work using OpenMP technology.
+---
 
 ![](/sats/Graph.jpg)
 
